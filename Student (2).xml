@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="student.xsd">
+
+    <Student RegistrationNumber="222555">
+        <FirstName>abd elmotaleb</FirstName>
+        <FamilyName>alalei</FamilyName>
+        <Age>21</Age>
+        <Address>
+            <Number>15</Number>
+            <City>El Oued</City>
+            <PostalCode>99051</PostalCode>
+        </Address>
+        <Level>3L</Level>
+        <Speciality>ComputerScience</Speciality>
+        <Average>12.55</Average>
+    </Student>
+
+    <Student RegistrationNumber="888791">
+        <FirstName>ahmed</FirstName>
+        <FamilyName>libia</FamilyName>
+        <Age>20</Age>
+        <Level>2L</Level>
+        <Speciality>Mathematics</Speciality>
+        <Average>17.80</Average>
+    </Student>
+
+</Students>
