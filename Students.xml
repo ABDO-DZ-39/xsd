@@ -8,19 +8,19 @@
 
 
     <Student RegistrationNumber="20240001">
-        <FirstName>Amer</FirstName>
-        <FamilyName>Ouaghed</FamilyName>
+        <FirstName>ahmed</FirstName>
+        <FamilyName>alalei</FamilyName>
         <Age>21</Age>
 
         <Address>
             <Number>99</Number>
             <City>El oued</City>
-            <PostalCode>39000</PostalCode>
+            <PostalCode>37300</PostalCode>
         </Address>
 
         <Level>3L</Level>
         <Speciality>ComputerScience</Speciality>
-        <Average>19.99</Average>
+        <Average>13.22</Average>
     </Student>
 
     <Student RegistrationNumber="20250002">
@@ -31,22 +31,22 @@
         <Address>
             <Number>45</Number>
             <City>Algiers</City>
-            <PostalCode>16012</PostalCode>
+            <PostalCode>16212</PostalCode>
         </Address>
 
         <Level>1M</Level>
         <Speciality>Mathematics</Speciality>
-        <Average>16.99</Average>
+        <Average>15.88</Average>
     </Student>
 
     <Student RegistrationNumber="20260003">
-        <FirstName>Yacinene</FirstName>
-        <FamilyName>Makhlofi</FamilyName>
+        <FirstName>fares</FirstName>
+        <FamilyName>ezmil</FamilyName>
         <Age>19</Age>
 
         <Level>1L</Level>
         <Speciality>Physics</Speciality>
-        <Average>12.99</Average>
+        <Average>13.40</Average>
     </Student>
 
 </Students>
